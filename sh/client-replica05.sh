@@ -1,0 +1,1 @@
+java -jar -Dspring.profiles.active=client-replica05 spring-cloud-service-registration-eureka-client-0.0.1-SNAPSHOT.jar
